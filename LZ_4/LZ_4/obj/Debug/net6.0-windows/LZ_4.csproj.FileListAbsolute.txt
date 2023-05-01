@@ -1,0 +1,36 @@
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\bin\Debug\net6.0-windows\LZ_4.exe
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\bin\Debug\net6.0-windows\LZ_4.deps.json
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\bin\Debug\net6.0-windows\LZ_4.runtimeconfig.json
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\bin\Debug\net6.0-windows\LZ_4.dll
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\bin\Debug\net6.0-windows\LZ_4.pdb
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.csproj.AssemblyReference.cache
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.Form1.resources
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.Properties.Resources.resources
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.csproj.GenerateResource.cache
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.AssemblyInfoInputs.cache
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.AssemblyInfo.cs
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.csproj.CoreCompileInputs.cache
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.dll
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\obj\Debug\net6.0-windows\refint\LZ_4.dll
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.pdb
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.genruntimeconfig.cache
+C:\Users\hasen\Desktop\Projects of Visual Studio\LZ_4\LZ_4\obj\Debug\net6.0-windows\ref\LZ_4.dll
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\bin\Debug\net6.0-windows\LZ_4.exe
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\bin\Debug\net6.0-windows\LZ_4.deps.json
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\bin\Debug\net6.0-windows\LZ_4.runtimeconfig.json
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\bin\Debug\net6.0-windows\LZ_4.dll
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\bin\Debug\net6.0-windows\ref\LZ_4.dll
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\bin\Debug\net6.0-windows\LZ_4.pdb
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.csproj.AssemblyReference.cache
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.Form1.resources
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.Properties.Resources.resources
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.csproj.GenerateResource.cache
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.AssemblyInfoInputs.cache
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.AssemblyInfo.cs
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.csproj.CoreCompileInputs.cache
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.dll
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\obj\Debug\net6.0-windows\ref\LZ_4.dll
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.pdb
+E:\Секонд Курс\mr Лабс\Second Sem\Labs C#\LZ_4\LZ_4\obj\Debug\net6.0-windows\LZ_4.genruntimeconfig.cache
